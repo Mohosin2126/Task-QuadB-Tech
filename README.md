@@ -49,3 +49,5 @@ Task-Pro is a task management application designed to help you synchronize your 
 ## Running the Application
 Once the development server is running, you can access the Task-Pro application through your web browser. Create new tasks, manage existing ones, and explore the seamless task management experience.
 
+
+(Live Link)[https://task-quadb.netlify.app/]
